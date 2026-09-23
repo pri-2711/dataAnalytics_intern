@@ -15,7 +15,8 @@ Parkinson's disease often shows variability in tremor severity across different 
 - Report evidence-based findings
 
 ## Dataset
-The project uses the uploaded Parkinson's tremor CSV provided in the workspace.
+The project uses the uploaded Parkinson's tremor CSV provided by UCI website, link is provided below:
+https://archive.ics.uci.edu/dataset/392/early+biomarkers+of+parkinson+s+disease+based+on+natural+connected+speech?utm_source=chatgpt.com
 
 ## Technologies Used
 - Python
